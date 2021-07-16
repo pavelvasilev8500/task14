@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<animals>
+  <animal name="Elefant">
+    <weight>40000</weight>
+    <quantity>4</quantity>
+    <lifespan>75</lifespan>
+    <color>gray</color>
+    <food>grass</food>
+    <type>african</type>
+  </animal>
+  <animal name="Gibbon">
+    <lifespan>40</lifespan>
+    <weight>7</weight>
+    <quantity>3</quantity>
+    <food>fruits</food>
+    <color>dark brown</color>
+  </animal>
+  <animal name="Monkey">
+    <quantity>4</quantity>
+    <lifespan>40</lifespan>
+    <growth>1</growth>
+    <food>bananas</food>
+    <color>broun</color>
+  </animal>
+</animals>
